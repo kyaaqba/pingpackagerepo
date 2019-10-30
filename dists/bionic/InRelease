@@ -4,33 +4,33 @@ Hash: SHA512
 Origin: Ping Tool
 Label: pingasync
 Codename: bionic
-Date: Tue, 29 Oct 2019 23:52:29 UTC
+Date: Wed, 30 Oct 2019 18:34:50 UTC
 Architectures: amd64
 Components: main
 Description: Personal repository
 MD5Sum:
- b986d03a647a53b85bba29d0e195c35c 726 main/binary-amd64/Packages
- baf4647ec4f2b3c61d987b6e7b82be0d 496 main/binary-amd64/Packages.gz
+ 6538e04665dd432e492dcd68128dcaec 726 main/binary-amd64/Packages
+ 590222fc535e0b8b7874ec6a5939f288 499 main/binary-amd64/Packages.gz
  e211a377896a85d360ba7f7b65c7da6a 104 main/binary-amd64/Release
 SHA1:
- f71dd820bfdb7bc2f066e1e65ade839872c11676 726 main/binary-amd64/Packages
- 85f954e26d53605b532bfe2eaf818947a8dd5baf 496 main/binary-amd64/Packages.gz
+ 3c3221bc00df8f33e59417c9889d7807656519d3 726 main/binary-amd64/Packages
+ 6c849e09d383c8b09b27ab9384db619b9d19cf35 499 main/binary-amd64/Packages.gz
  f9235588dbd527d7bc4cfb4737d787d3f5a92999 104 main/binary-amd64/Release
 SHA256:
- 07aa6c6c29032946b6daae984aba226148ef727fac54dd8dbefa7eb162849615 726 main/binary-amd64/Packages
- 009352869649e1fe14336d75a6b00f041d6f8a7146090790f2c32560c4f2a8ae 496 main/binary-amd64/Packages.gz
+ 5e8cbaee582b8d34310be428e8c59a3fc23c550fcda4c99afa1735e4d358be1a 726 main/binary-amd64/Packages
+ 243b603398c38e246dc88332f9e10fc776dfc9e74f9104a7bfb98948783df9d2 499 main/binary-amd64/Packages.gz
  da69ffd5876201cab0ae1e4712b4585598c8ec8bf037f5b458bd8d67244365c3 104 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEvqnoH6UfngQtS4FkQ3yeb4SlzjsFAl240L0ACgkQQ3yeb4Sl
-zjsDxgv/TflQQ0Ik6LrRr8TTKy5K37SEkR9f06Tj1mEzPGr6hHvSXl1wNFK2t+cu
-4fQL5x1X3UyroX4uIy/XpQVL1iNb2WXzjSBdJvUNT21cYpM5frcgeoXgikS6yo6z
-dRtThOb90MRduGpzyB8Y+BHbtlxy0Huo9VeeQN55Cs1J+/cuZXLAgiY7i8VJeb3B
-Kpt3S5qk4mmc4b1daFOVULTqeZpOs5m4AYNn1dpjCaA7o9qe/4wHAON8bnOtEfzr
-u4K1i0LoE2arMpXJVVQya1+TnlOQIeX0cjX+g7Hgk4JK0gj+L955jG91owhP0S/L
-uCouCU8TrUVOX1/6kemPPrKf/lG2+ngnHNA/Xw2iDMlK3zB2GJnPRKqYGjuh3ymv
-bcLFQBjd8lZKLnePrCz9uOImhGToyKy8AqzAbk28Zt0fTv5FGH61GAxNTtWIP8s8
-0CFgxJ4XyHo8QhMiilM/EfQ/YId259G2weqQVDQ8n/1IYLDgMFVc5UDBC+gGeqYl
-j6+XG3n/
-=suzC
+iQGzBAEBCgAdFiEEvqnoH6UfngQtS4FkQ3yeb4SlzjsFAl2518oACgkQQ3yeb4Sl
+zjvDoAv7BWs/0p8uSruJQ2TGBy9t5dwLrWTHW99RtRkUKx/XUxdbpBPMSsVBfUs2
+q7F8bsUY60kY5aMwUkskeYxgIY8c+tfY702zc/Xs+cM30p+V8SIn718VgoRZWw67
+yd55/hwn+Ma9dVVwYftfheZzlGf5G+ATjhgsMMcmBB3AL50DpmTjZYd/8FNEr6Rp
+TIuZK4V7dxQOzQDe21jePfU1hG7pdNNxODcRCQS8zzCNNL1lkALNMfdp7sY61kfI
+r+LYFusyydnlNa0XZBgTtmYfOTpRch9ajQv2rWxJ1HsN6W7KYJUXVZUGch9zxoMV
+evZTM9b8tBf+wuRwIg+k8uwn0GrHHHyQQk7mCpL7C1XnrHOBrftNWB1SCqNAQUd/
+V8TofwKhao6wDrKE8VPqCHDp9ZfqYe3hQBeefsOOiOzeyw6Avo/dFXHkqzloRuGt
+Stz2QMcZ03gwRNQJpuPz1TJ9Jr+K4t2kIuW7YHukB7noRUo3RcQ2Yzl0Eka7oTcR
+JykpqUQq
+=xOej
 -----END PGP SIGNATURE-----
