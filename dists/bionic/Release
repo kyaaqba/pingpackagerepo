@@ -1,19 +1,19 @@
 Origin: Ping Tool
 Label: pingasync
 Codename: bionic
-Date: Wed, 30 Oct 2019 18:34:50 UTC
+Date: Thu, 07 Nov 2019 23:33:26 UTC
 Architectures: amd64
 Components: main
 Description: Personal repository
 MD5Sum:
- 6538e04665dd432e492dcd68128dcaec 726 main/binary-amd64/Packages
- 590222fc535e0b8b7874ec6a5939f288 499 main/binary-amd64/Packages.gz
+ 4fdbd272ad71493002bbff757099fcbe 726 main/binary-amd64/Packages
+ 2af954a00900dedaf99c5fb91fa28780 498 main/binary-amd64/Packages.gz
  e211a377896a85d360ba7f7b65c7da6a 104 main/binary-amd64/Release
 SHA1:
- 3c3221bc00df8f33e59417c9889d7807656519d3 726 main/binary-amd64/Packages
- 6c849e09d383c8b09b27ab9384db619b9d19cf35 499 main/binary-amd64/Packages.gz
+ 8da8e3456a3cfa2a1a9cbdb967c1d2e9e74fc35d 726 main/binary-amd64/Packages
+ 6a51fe80408d64ff1235c1957a78f5733071c26c 498 main/binary-amd64/Packages.gz
  f9235588dbd527d7bc4cfb4737d787d3f5a92999 104 main/binary-amd64/Release
 SHA256:
- 5e8cbaee582b8d34310be428e8c59a3fc23c550fcda4c99afa1735e4d358be1a 726 main/binary-amd64/Packages
- 243b603398c38e246dc88332f9e10fc776dfc9e74f9104a7bfb98948783df9d2 499 main/binary-amd64/Packages.gz
+ e7f73dbb0d8c0523d0cfadacede162b12ebeeb0979bcf04b2ce9b5555e4ea9b3 726 main/binary-amd64/Packages
+ bfc10698810eb7894bcdfa61b448d6846c282d8495b2b186472931775599d880 498 main/binary-amd64/Packages.gz
  da69ffd5876201cab0ae1e4712b4585598c8ec8bf037f5b458bd8d67244365c3 104 main/binary-amd64/Release
